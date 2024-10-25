@@ -2,6 +2,11 @@
 
 This is a template software project repository used by the [Intermediate Research Software Development Skills In Python](https://github.com/carpentries-incubator/python-intermediate-development).
 
+## Metadata
+
+*  [ro-crate-metadata.json](ro-crate-metadata.json)
+*  [ro-crate-preview.html](ro-crate-preview.html)
+
 ## Purpose
 
 This repository is intended to be used as a code template which is copied by learners at [Intermediate Research Software Development Skills In Python](https://github.com/carpentries-incubator/python-intermediate-development) course.
